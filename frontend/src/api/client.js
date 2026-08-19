@@ -15,7 +15,7 @@ import {
 
 const DEFAULT_API_BASE_URL =
   import.meta.env.VITE_API_BASE_URL ||
-  import.meta.env.VITE_API_URL ||
+  import.meta.env.VITE_API_URL || "/api" ||
   "http://localhost:8000";
 
 export function getApiBaseUrl() {
