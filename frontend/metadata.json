@@ -1,0 +1,6 @@
+{
+  "name": "CloudOpsAI",
+  "description": "AI-Powered Cloud Operations & Incident Management Platform with real-time service monitoring, log investigation, AI root cause analysis, and incident response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
